@@ -34,18 +34,18 @@ include_once("_includes/header.php");
       <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row d-flex justify-content-center align-items-center full-height text-center">
+                <div class="d-flex justify-content-center align-items-center full-height text-center">
                     <div class="col-md-6 card">
-                        <div class="p-3 wow pulse" data-wow-delay="0.2s">
+                        <div class="col-md-12 p-3 wow pulse" data-wow-delay="0.2s">
                             
-                            <h1 class="display-3">
+                            <h1 class="display-4">
                                 <strong>
                                 <?php echo $icon; ?>
                                 <?php echo $llego; ?>
                                 </strong>
                             </h1>
                         </div>
-                        <div class="p-3  wow fadeIn" data-wow-delay="0.4s">
+                        <div class="col-md-12 p-3  wow fadeIn" data-wow-delay="0.4s">
                             <form action="_includes/form.php" method="post" id="form">
                             <div class="radio">
                                 <label>
@@ -61,7 +61,7 @@ include_once("_includes/header.php");
                             </div>
                             </form>
                         </div>
-                        <div class="p-3  wow fadeIn" data-wow-delay="0.6s">
+                        <div class="col-md-12 p-3  wow fadeIn" data-wow-delay="0.6s">
                             <button class="btn btn-primary" type="submit" form="form" value="Submit">
                                 guardar
                             </button>

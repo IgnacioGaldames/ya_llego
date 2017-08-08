@@ -1,5 +1,5 @@
 <?php
-
+$url = "http://ignaciogaldames.rf.gd/ya_llego";
 $autor = "Ignacio Galdames";
 
 //Google Tag Manager
