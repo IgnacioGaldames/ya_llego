@@ -13,6 +13,6 @@
 <!-- iPad Retina / iOS ≤ 6 -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo $url ?>/_img/iconos/apple-touch-icon-144-precomposed.png" />
 <!-- IOS -->
-<link rel="apple-touch-icon" sizes="152x152" href="<?php echo $url ?>/_img/iconos/touch-icon-ipad--152-precomposed.png">
+<link rel="apple-touch-icon" sizes="152x152" href="<?php echo $url ?>/_img/iconos/touch-icon-ipad-152-precomposed.png">
 <link rel="apple-touch-icon" sizes="167x167" href="<?php echo $url ?>/_img/iconos/touch-icon-ipad-retina-167-precomposed.png">
 <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $url ?>/_img/iconos/touch-icon-iphone-retina-180-precomposed.png">
