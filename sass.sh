@@ -1,1 +1,1 @@
-sass build --watch --style compressed sass/main.sass:css/main.css
+sass --watch --style compressed sass/main.sass:css/main.css

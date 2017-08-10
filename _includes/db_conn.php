@@ -1,8 +1,8 @@
 <?php
-$servername = "sql213.rf.gd";
-$username = "rfgd_20509261";
-$password = "randirelen126";
-$dbname = "rfgd_20509261_sql_ingreso";
+$servername = "localhost";
+$username = "root";
+$password = "root";
+$dbname = "sql_ingreso";
 
 $dbcampo = "*";
 
